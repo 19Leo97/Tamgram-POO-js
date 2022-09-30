@@ -24,11 +24,11 @@ Dentro del codigo hay comentarios que explican mas detalladamente la dinamica de
 7. Se puede imprimir un string con JSON,de las propiedades de las fichas con la tecla "k".
 8. Para guardar un problema creado, luego de imprimirlo, copiamos de la consola los strings en el codigo, el primer y segundo string en las variables m0 y m1 de algun key=="num"
 
-Que hace diferente a este juego de los demás?
-*Las fichas se pegan unas a otras!
-1. Las fichas ajustan su posicion en funcion de la cercania que tengan a otras figuras. Esto permite una mejor manipulación de las fichas del juego, además de mayor precision al ubicar las fichas. 
-*Permite varias soluciones sin perder agudeza en la evaluación de la solución
-2. Para evaluar la solucion del problema, nos aseguramos de que todos los segmentos de todas las figuras esten en contacto con las demas figuras(incluimos las del fondo y frente), y que ninguna figura del frente este encima de otra figura del frente. Esta estrategia nos da una segura evaluación de la solución, permitiendo multiples soluciones también
+## Que hace diferente a este juego de los demás?  
+1. Las fichas se pegan unas a otras!  
+Las fichas ajustan su posicion en funcion de la cercania que tengan a otras figuras. Esto permite una mejor manipulación de las fichas del juego, además de mayor precision al ubicar las fichas. 
+2. Permite varias soluciones sin perder agudeza en la evaluación de la solución  
+Para evaluar la solucion del problema, nos aseguramos de que todos los segmentos de todas las figuras esten en contacto con las demas figuras(incluimos las del fondo y frente), y que ninguna figura del frente este encima de otra figura del frente. Esta estrategia nos da una segura evaluación de la solución, permitiendo multiples soluciones también
 
 ## Cómo abrir el juego?  
 Puedes descargar el zip de este repositorio, descomprimirlo, y luego abrir con el navegador de google chrome el archivo llamado "index", que está en la carpeta "Tamgram"
