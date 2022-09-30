@@ -1,6 +1,6 @@
 # Tamgram-POO-js
 
-##Explicación de archivos y clases
+## Explicación de archivos y clases
 
 El codigo de este Tammgram está desarrollado en p5.
 Consta de un archivo principal, "Tamgram.js" donde se corre el draw, el setup y están alojadas varias funciones importantes
@@ -13,7 +13,7 @@ Tiene 5 clases:
 Dentro del codigo hay comentarios que explican mas detalladamente la dinamica del programa.
 
 
-##Información extra del Juego:
+## Información extra del Juego:
 
 1. Las fichas se seleccionan con el mouse, inmediatamente se pueden mover arrastrandolas
 2. Al ser seleccionadas se pueden girar con "A" y "D", e invertir con "W"
@@ -30,7 +30,7 @@ Que hace diferente a este juego de los demás?
 *Permite varias soluciones sin perder agudeza en la evaluación de la solución
 2. Para evaluar la solucion del problema, nos aseguramos de que todos los segmentos de todas las figuras esten en contacto con las demas figuras(incluimos las del fondo y frente), y que ninguna figura del frente este encima de otra figura del frente. Esta estrategia nos da una segura evaluación de la solución, permitiendo multiples soluciones también
 
-##Cómo abrir el juego?
+## Cómo abrir el juego?  
 Puedes descargar el zip de este repositorio, descomprimirlo, y luego abrir con el navegador de google chrome el archivo llamado "index", que está en la carpeta "Tamgram"
 
 
