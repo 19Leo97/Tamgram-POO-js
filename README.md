@@ -19,7 +19,8 @@ Dentro del codigo hay comentarios que explican mas detalladamente la dinamica de
 2. Al ser seleccionadas se pueden girar con "A" y "D", e invertir con "W"
 3. Se pueden escoger problemas a resolver con las teclas "1",...hasta "9", y mas si se crean mas niveles.
 4. Se puede ver la solución de un nivel con la tecla "g"
-5. Cuando se soluciona el problema las fichas cambia de color a azul
+5. Cuando se soluciona el problema las fichas cambia de color a azul  
+### Ya implementado, pero por mejorar:  
 6. Se puede crear un nivel nuevo. Se presiona la tecla g, para cambiar la posicion de las fichas del fondo. Volviendo a presionar "g" podemos cambiar las fichas front.
 7. Se puede imprimir un string con JSON,de las propiedades de las fichas con la tecla "k".
 8. Para guardar un problema creado, luego de imprimirlo, copiamos de la consola los strings en el codigo, el primer y segundo string en las variables m0 y m1 de algun key=="num"
